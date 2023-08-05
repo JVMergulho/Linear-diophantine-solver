@@ -1,4 +1,4 @@
-# Linear_Diophantine_Solver
+# Linear_diophantine_solver
 Solucionador de equações diofantinas lineares com duas variáveis.
 
 O input do programa deve seguir o formato abaixo: 
